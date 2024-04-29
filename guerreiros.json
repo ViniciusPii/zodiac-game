@@ -623,6 +623,38 @@
   },
   {
     "id": 18,
+    "nome": "Serpentário, o Mistério Vivente",
+    "descrição": "Uma figura lendária envolta em mistério, cuja existência é questionada por muitos.",
+    "altura": "2,10m",
+    "peso": "90kg",
+    "personalidade": {
+      "personalidade": "Serpentário é um enigma, cuja verdadeira natureza permanece envolta em mistério.",
+      "descrição": "Ele é uma figura solitária, que prefere manter-se nas sombras e observar em silêncio."
+    },
+    "signoRepresentante": "Serpentário",
+    "classe": "Lendário",
+    "nivelDePoder": 750,
+    "caracteristica": {
+      "caracteristica": "Mistério Indescritível",
+      "descrição": "Serpentário é envolto em um mistério tão profundo que muitos duvidam de sua existência, mesmo quando testemunham sua presença."
+    },
+    "ataques": [
+      {
+        "nome": "Sombra Enigmática",
+        "descrição": "Ele se envolve em uma sombra enigmática que confunde e desorienta seus oponentes, permitindo-lhe atacar de surpresa."
+      },
+      {
+        "nome": "Toque do Desconhecido",
+        "descrição": "Ele toca seus inimigos com uma energia misteriosa que os enche de dúvida e incerteza, minando sua confiança e determinação."
+      }
+    ],
+    "ataquePrincipal": {
+      "ataque": "Sombra Enigmática",
+      "descrição": "Serpentário se envolve em uma sombra misteriosa que o protege dos olhos curiosos e permite que ele se mova livremente pelo campo de batalha, sempre observando e esperando o momento certo para atacar."
+    }
+  },
+  {
+    "id": 19,
     "nome": "Thalos, o Mestre Ancião",
     "descrição": "O antigo mestre de Cáspio e Ira, uma figura venerada cuja sabedoria e poder são lendários.",
     "altura": "2,20m",
@@ -654,7 +686,7 @@
     }
   },
   {
-    "id": 19,
+    "id": 20,
     "nome": "Cáspio, o Imperturbável",
     "descrição": "O primeiro boss final, um guerreiro do signo de Capricórnio, cuja calma aparente esconde uma força formidável e uma determinação inabalável.",
     "altura": "1,85m",
@@ -686,7 +718,7 @@
     }
   },
   {
-    "id": 20,
+    "id": 21,
     "nome": "Ira, o Furioso",
     "descrição": "O segundo boss final, irmão de Cáspio, um guerreiro do signo de Capricórnio, cuja ira descontrolada é tão temível quanto a determinação de seu irmão.",
     "altura": "1,90m",
@@ -718,7 +750,7 @@
     }
   },
   {
-    "id": 21,
+    "id": 22,
     "nome": "Cáspio e Ira, a União Imperturbável",
     "descrição": "A fusão dos irmãos Cáspio e Ira, um guerreiro místico que incorpora tanto a calma imperturbável de Cáspio quanto a fúria incontrolável de Ira.",
     "altura": "1,95m",
@@ -750,7 +782,7 @@
     }
   },
   {
-    "id": 22,
+    "id": 23,
     "nome": "Ira, a Manifestação",
     "descrição": "A fusão dos irmãos Cáspio e Ira, onde a fúria de Ira prevalece, resultando em um guerreiro lendário que personifica a ira descontrolada.",
     "altura": "2,00m",
@@ -782,7 +814,7 @@
     }
   },
   {
-    "id": 23,
+    "id": 24,
     "nome": "Ira, o Devastador Divino",
     "descrição": "A evolução final de Ira, onde sua fúria descontrolada atinge o ápice, transformando-o em um ser divino de pura destruição.",
     "altura": "10m",
@@ -811,6 +843,38 @@
     "ataquePrincipal": {
       "ataque": "Colapso Celestial",
       "descrição": "Ira, o Devastador Divino, desencadeia todo o seu poder divino em um único golpe, causando um colapso celestial que aniquila tudo em seu caminho."
+    }
+  },
+  {
+    "id": 25,
+    "nome": "O Criador das Trevas",
+    "descrição": "Uma entidade de destruição sem igual, cuja força e crueldade são temidas por todos.",
+    "altura": "Indefinida",
+    "peso": "Indefinido",
+    "personalidade": {
+      "personalidade": "O Criador das Trevas é uma força da natureza, cuja única motivação é a destruição e o caos.",
+      "descrição": "Ele é impiedoso e cruel, mostrando misericórdia apenas para aqueles que lhe servem."
+    },
+    "signoRepresentante": "Indefinido",
+    "classe": "Indefinida",
+    "nivelDePoder": "Indefinido",
+    "caracteristica": {
+      "caracteristica": "Destruição Absoluta",
+      "descrição": "O Criador das Trevas possui um poder destrutivo que transcende qualquer compreensão, capaz de aniquilar mundos inteiros com um simples pensamento."
+    },
+    "ataques": [
+      {
+        "nome": "Rugido do Apocalipse",
+        "descrição": "Ele emite um rugido ensurdecedor que ecoa através do cosmos, anunciando a chegada do apocalipse e instilando medo em todos aqueles que o ouvem."
+      },
+      {
+        "nome": "Mão da Aniquilação",
+        "descrição": "Ele estende sua mão e libera uma onda de energia destrutiva que desfaz tudo em seu caminho, reduzindo até mesmo os mais poderosos guerreiros a poeira."
+      }
+    ],
+    "ataquePrincipal": {
+      "ataque": "Rugido do Apocalipse",
+      "descrição": "O Criador das Trevas emite um rugido que ecoa através do universo, anunciando a chegada do fim de todas as coisas."
     }
   }
 ]
