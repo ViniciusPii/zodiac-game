@@ -1,0 +1,816 @@
+[
+  {
+    "id": 1,
+    "nome": "Draven, o Furioso",
+    "descrição": "Um guerreiro intrépido e destemido, sempre pronto para a batalha.",
+    "altura": "1,85m",
+    "peso": "90kg",
+    "personalidade": {
+      "personalidade": "Audacioso e impulsivo, Draven não teme enfrentar nenhum desafio.",
+      "descrição": "Ele é conhecido por sua coragem inabalável e sua determinação feroz."
+    },
+    "signoRepresentante": "Áries",
+    "classe": "Guerreiro",
+    "nivelDePoder": 280,
+    "caracteristica": {
+      "caracteristica": "O mais veloz de todos",
+      "descrição": "Draven é extremamente ágil, capaz de reagir rapidamente em qualquer situação de combate."
+    },
+    "ataques": [
+      {
+        "nome": "Investida Furiosa",
+        "descrição": "Draven avança com sua arma em punho, golpeando seus inimigos com uma força devastadora."
+      },
+      {
+        "nome": "Fúria Ardente",
+        "descrição": "Ele canaliza sua raiva interior para desferir golpes poderosos que intimidam seus oponentes."
+      }
+    ],
+    "ataquePrincipal": {
+      "ataque": "Investida Furiosa",
+      "descrição": "Draven concentra toda sua energia e avança com toda a sua força, atingindo seus adversários com um golpe que pode partir até mesmo a mais resistente das armaduras."
+    }
+  },
+  {
+    "id": 2,
+    "nome": "Gareth, o Inabalável",
+    "descrição": "Um guerreiro robusto e resiliente, cuja determinação é tão sólida quanto a terra.",
+    "altura": "1,90m",
+    "peso": "100kg",
+    "personalidade": {
+      "personalidade": "Persistente e confiável, Gareth é conhecido por sua lealdade inabalável e sua determinação em enfrentar qualquer desafio.",
+      "descrição": "Ele é calmo e ponderado, mas uma vez provocado, sua fúria é tão imparável quanto um touro furioso."
+    },
+    "signoRepresentante": "Touro",
+    "classe": "Guerreiro",
+    "nivelDePoder": 320,
+    "caracteristica": {
+      "caracteristica": "O que tem a maior força",
+      "descrição": "Gareth é dotado de uma força física imensa, capaz de desferir golpes poderosos que podem fazer até mesmo as muralhas mais robustas tremerem."
+    },
+    "ataques": [
+      {
+        "nome": "Investida Terrível",
+        "descrição": "Gareth avança com sua massa muscular imponente, investindo contra seus oponentes com uma força capaz de derrubar até os mais corajosos adversários."
+      },
+      {
+        "nome": "Fúria Taurina",
+        "descrição": "Ele canaliza sua determinação inabalável para desferir golpes devastadores que quebram a resistência de seus inimigos."
+      }
+    ],
+    "ataquePrincipal": {
+      "ataque": "Investida Terrível",
+      "descrição": "Gareth concentra toda sua força e avança como um touro enfurecido, atingindo seus adversários com um golpe que pode fazer até mesmo as rochas se partirem."
+    }
+  },
+  {
+    "id": 3,
+    "nome": "Ethan, o Estratégico",
+    "descrição": "Um soldado inteligente e estratégico, cuja astúcia é sua maior vantagem em combate.",
+    "altura": "1,80m",
+    "peso": "75kg",
+    "personalidade": {
+      "personalidade": "Ethan é perspicaz e astuto, capaz de analisar rapidamente uma situação e elaborar planos eficazes.",
+      "descrição": "Ele é um líder nato, inspirando confiança em seus companheiros de equipe e sempre encontrando uma saída mesmo nas situações mais difíceis."
+    },
+    "signoRepresentante": "Gêmeos",
+    "classe": "Soldado",
+    "nivelDePoder": 135,
+    "caracteristica": {
+      "caracteristica": "Mente Estratégica",
+      "descrição": "Ethan possui uma mente afiada e estratégica, capaz de antecipar os movimentos do inimigo e encontrar pontos fracos em suas defesas."
+    },
+    "ataques": [
+      {
+        "nome": "Ataque Furtivo",
+        "descrição": "Ethan ataca sorrateiramente seus inimigos, aproveitando-se de sua inteligência para encontrar oportunidades de golpear onde são mais vulneráveis."
+      },
+      {
+        "nome": "Tática de Emboscada",
+        "descrição": "Ele utiliza sua capacidade estratégica para preparar emboscadas para seus adversários, pegando-os de surpresa e desorganizando suas fileiras."
+      }
+    ],
+    "ataquePrincipal": {
+      "ataque": "Ataque Furtivo",
+      "descrição": "Ethan planeja cuidadosamente seu ataque, movendo-se silenciosamente e atingindo seus alvos com precisão cirúrgica antes que percebam o perigo iminente."
+    }
+  },
+  {
+    "id": 4,
+    "nome": "Dylan, o Indeciso",
+    "descrição": "Um soldado indeciso e instável, cuja falta de foco o torna um aliado pouco confiável.",
+    "altura": "1,75m",
+    "peso": "70kg",
+    "personalidade": {
+      "personalidade": "Dylan é inconstante e indeciso, incapaz de tomar decisões rápidas e firmes em momentos críticos.",
+      "descrição": "Ele frequentemente muda de ideia e hesita em agir, o que pode colocar em risco não só sua própria vida, mas também a de seus companheiros de equipe."
+    },
+    "signoRepresentante": "Gêmeos",
+    "classe": "Soldado",
+    "nivelDePoder": 90,
+    "caracteristica": {
+      "caracteristica": "Indecisão Crônica",
+      "descrição": "Dylan é constantemente atormentado pela dúvida e pela indecisão, o que o impede de agir com determinação e eficácia em situações de combate."
+    },
+    "ataques": [
+      {
+        "nome": "Ataque Incerto",
+        "descrição": "Dylan hesita ao atacar seus inimigos, desperdiçando oportunidades valiosas e permitindo que escapem ileso."
+      },
+      {
+        "nome": "Recuo Desnecessário",
+        "descrição": "Ele recua frequentemente durante o combate, incapaz de manter sua posição e comprometendo a eficácia de sua equipe."
+      }
+    ],
+    "ataquePrincipal": {
+      "ataque": "Ataque Incerto",
+      "descrição": "Dylan tenta atacar seus oponentes, mas sua indecisão o impede de executar o golpe com precisão, resultando em um ataque fraco e ineficaz."
+    },
+    "fusao": {
+      "nome": "Eldor, o Equilibrado",
+      "descrição": "Um guerreiro que incorpora tanto a astúcia estratégica quanto a agilidade surpreendente de seus antecessores.",
+      "altura": "1,80m",
+      "peso": "72,5kg",
+      "personalidade": {
+        "personalidade": "Eldor é perspicaz e adaptável, capaz de mudar sua abordagem em combate conforme a situação exige.",
+        "descrição": "Ele combina a indecisão crônica de Dylan com a determinação inabalável de Ethan, tornando-se um oponente formidável e imprevisível."
+      },
+      "signoRepresentante": "Gêmeos",
+      "classe": "Guerreiro",
+      "nivelDePoder": 225,
+      "caracteristica": {
+        "caracteristica": "Equilíbrio Perfeito",
+        "descrição": "Eldor possui tanto a mente estratégica de Ethan quanto a agilidade surpreendente de Dylan, tornando-se um guerreiro equilibrado que pode se adaptar a qualquer situação de combate."
+      },
+      "ataques": [
+        {
+          "nome": "Ataque Incerto",
+          "descrição": "Eldor hesita ao atacar seus inimigos, desperdiçando oportunidades valiosas e permitindo que escapem ileso."
+        },
+        {
+          "nome": "Ataque Furtivo",
+          "descrição": "Ele ataca sorrateiramente seus inimigos, aproveitando-se de sua inteligência para encontrar oportunidades de golpear onde são mais vulneráveis."
+        },
+        {
+          "nome": "Recuo Desnecessário",
+          "descrição": "Eldor recua frequentemente durante o combate, incapaz de manter sua posição e comprometendo a eficácia de sua equipe."
+        },
+        {
+          "nome": "Investida Veloz",
+          "descrição": "Ele avança rapidamente em direção aos seus inimigos, aproveitando-se de sua agilidade para desferir golpes rápidos e precisos."
+        }
+      ],
+      "ataquePrincipal": {
+        "ataque": "Ataque Incerto",
+        "descrição": "Eldor tenta atacar seus oponentes, mas sua indecisão o impede de executar o golpe com precisão, resultando em um ataque fraco e ineficaz."
+      }
+    }
+  },
+  {
+    "id": 5,
+    "nome": "Eldor, o Equilibrado",
+    "descrição": "Um guerreiro que incorpora tanto a astúcia estratégica quanto a agilidade surpreendente de seus antecessores.",
+    "altura": "1,80m",
+    "peso": "72,5kg",
+    "personalidade": {
+      "personalidade": "Eldor é perspicaz e adaptável, capaz de mudar sua abordagem em combate conforme a situação exige.",
+      "descrição": "Ele combina a indecisão crônica de Dylan com a determinação inabalável de Ethan, tornando-se um oponente formidável e imprevisível."
+    },
+    "signoRepresentante": "Gêmeos",
+    "classe": "Guerreiro",
+    "nivelDePoder": 225,
+    "caracteristica": {
+      "caracteristica": "Equilíbrio Perfeito",
+      "descrição": "Eldor possui tanto a mente estratégica de Ethan quanto a agilidade surpreendente de Dylan, tornando-se um guerreiro equilibrado que pode se adaptar a qualquer situação de combate."
+    },
+    "ataques": [
+      {
+        "nome": "Ataque Incerto",
+        "descrição": "Eldor hesita ao atacar seus inimigos, desperdiçando oportunidades valiosas e permitindo que escapem ileso."
+      },
+      {
+        "nome": "Ataque Furtivo",
+        "descrição": "Ele ataca sorrateiramente seus inimigos, aproveitando-se de sua inteligência para encontrar oportunidades de golpear onde são mais vulneráveis."
+      },
+      {
+        "nome": "Recuo Desnecessário",
+        "descrição": "Eldor recua frequentemente durante o combate, incapaz de manter sua posição e comprometendo a eficácia de sua equipe."
+      },
+      {
+        "nome": "Investida Veloz",
+        "descrição": "Ele avança rapidamente em direção aos seus inimigos, aproveitando-se de sua agilidade para desferir golpes rápidos e precisos."
+      }
+    ],
+    "ataquePrincipal": {
+      "ataque": "Ataque Incerto",
+      "descrição": "Eldor tenta atacar seus oponentes, mas sua indecisão o impede de executar o golpe com precisão, resultando em um ataque fraco e ineficaz."
+    }
+  },
+  {
+    "id": 6,
+    "nome": "Clara, a Protetora",
+    "descrição": "Uma soldada compassiva e dedicada, cuja força reside em sua determinação em proteger aqueles que ama.",
+    "altura": "1,70m",
+    "peso": "65kg",
+    "personalidade": {
+      "personalidade": "Clara é empática e protetora, sempre disposta a colocar a segurança dos outros antes da sua própria.",
+      "descrição": "Ela é leal e dedicada, lutando com coragem e ferocidade para defender seus companheiros e aqueles que precisam de sua ajuda."
+    },
+    "signoRepresentante": "Câncer",
+    "classe": "Soldada",
+    "nivelDePoder": 120,
+    "caracteristica": {
+      "caracteristica": "Protetora Incansável",
+      "descrição": "Clara possui um instinto protetor aguçado, sempre vigilante e pronta para intervir em situações de perigo para garantir a segurança daqueles ao seu redor."
+    },
+    "ataques": [
+      {
+        "nome": "Escudo de Esperança",
+        "descrição": "Clara utiliza seu escudo para proteger seus aliados dos ataques inimigos, oferecendo-lhes segurança e esperança em meio ao caos da batalha."
+      },
+      {
+        "nome": "Lágrimas de Cura",
+        "descrição": "Ela derrama suas lágrimas sobre os feridos, cujas propriedades curativas os ajudam a se recuperar de ferimentos e restaurar sua força."
+      }
+    ],
+    "ataquePrincipal": {
+      "ataque": "Escudo de Esperança",
+      "descrição": "Clara ergue seu escudo em defesa de seus aliados, bloqueando os ataques inimigos e oferecendo proteção e conforto em tempos de dificuldade."
+    }
+  },
+  {
+    "id": 7,
+    "nome": "Clara, a Protetora",
+    "descrição": "Uma soldada compassiva e dedicada, cuja força reside em sua determinação em proteger aqueles que ama.",
+    "altura": "1,70m",
+    "peso": "65kg",
+    "personalidade": {
+      "personalidade": "Clara é empática e protetora, sempre disposta a colocar a segurança dos outros antes da sua própria.",
+      "descrição": "Ela é leal e dedicada, lutando com coragem e ferocidade para defender seus companheiros e aqueles que precisam de sua ajuda."
+    },
+    "signoRepresentante": "Câncer",
+    "classe": "Berserker",
+    "nivelDePoder": 550,
+    "caracteristica": {
+      "caracteristica": "Fúria Descontrolada",
+      "descrição": "Clara entra em um estado de fúria descontrolada, abandonando qualquer noção de defesa para se lançar furiosamente contra seus inimigos, aniquilando tudo em seu caminho."
+    },
+    "ataques": [
+      {
+        "nome": "Fúria Incontida",
+        "descrição": "Clara libera toda sua fúria acumulada em uma série de golpes brutais, desferindo ataques devastadores que destroem tudo à sua volta."
+      },
+      {
+        "nome": "Destruição Voraz",
+        "descrição": "Ela se lança sobre seus oponentes com uma sede insaciável de destruição, atacando sem piedade até que não reste nada além de destroços."
+      }
+    ],
+    "ataquePrincipal": {
+      "ataque": "Fúria Incontida",
+      "descrição": "Clara canaliza sua fúria em um golpe devastador, desferindo uma série de ataques poderosos que destroem seus inimigos sem piedade."
+    }
+  },
+  {
+    "id": 8,
+    "nome": "Leonel, o Majestoso",
+    "descrição": "Um guerreiro imponente e destemido, cuja bravura é tão lendária quanto sua presença majestosa no campo de batalha.",
+    "altura": "1,85m",
+    "peso": "85kg",
+    "personalidade": {
+      "personalidade": "Leonel é corajoso e destemido, liderando seus companheiros com uma determinação feroz e inspirando-os a enfrentar qualquer desafio com bravura.",
+      "descrição": "Ele é o exemplo máximo de bravura e nobreza, sempre disposto a lutar pela justiça e proteger aqueles que são mais fracos."
+    },
+    "signoRepresentante": "Leão",
+    "classe": "Guerreiro",
+    "nivelDePoder": 280,
+    "caracteristica": {
+      "caracteristica": "Majestade Guerreira",
+      "descrição": "Leonel irradia uma aura de nobreza e majestade, impondo respeito e inspirando admiração em todos que têm a honra de testemunhar sua presença no campo de batalha."
+    },
+    "ataques": [
+      {
+        "nome": "Investida Feroz",
+        "descrição": "Leonel avança com determinação implacável, golpeando seus inimigos com uma força avassaladora que os faz recuar diante de sua bravura."
+      },
+      {
+        "nome": "Fúria do Leão",
+        "descrição": "Ele canaliza a fúria interior de um leão, desencadeando uma série de golpes furiosos que destroem seus oponentes com uma ferocidade inigualável."
+      }
+    ],
+    "ataquePrincipal": {
+      "ataque": "Investida Feroz",
+      "descrição": "Leonel lança-se à frente de seus companheiros, liderando-os com uma investida poderosa que quebra as linhas inimigas e abre caminho para a vitória."
+    }
+  },
+  {
+    "id": 9,
+    "nome": "Virgil, o Celestial",
+    "descrição": "Um guerreiro místico e poderoso, cuja presença irradia uma aura divina que inspira admiração e temor em seus inimigos.",
+    "altura": "1,90m",
+    "peso": "80kg",
+    "personalidade": {
+      "personalidade": "Virgil é sábio e misterioso, com uma compreensão profunda dos segredos do universo e dos mistérios além da compreensão humana.",
+      "descrição": "Ele é o guardião dos segredos antigos e dos conhecimentos celestiais, dedicado a proteger o equilíbrio entre os reinos divino e terreno."
+    },
+    "signoRepresentante": "Virgem",
+    "classe": "Celestial",
+    "nivelDePoder": 550,
+    "caracteristica": {
+      "caracteristica": "Aura Divina",
+      "descrição": "Virgil emana uma aura de poder celestial, capaz de purificar o mal e proteger os inocentes com sua presença imponente e misteriosa."
+    },
+    "ataques": [
+      {
+        "nome": "Julgamento Celestial",
+        "descrição": "Virgil convoca os poderes celestiais para julgar seus inimigos, desferindo um golpe divino que purifica o mal e restaura a ordem."
+      },
+      {
+        "nome": "Chamado dos Arcanjos",
+        "descrição": "Ele invoca os poderosos arcanjos para ajudá-lo em batalha, canalizando sua energia divina para banir as trevas e proteger os inocentes."
+      }
+    ],
+    "ataquePrincipal": {
+      "ataque": "Julgamento Celestial",
+      "descrição": "Virgil ergue seu braço para os céus, invocando o julgamento divino sobre seus inimigos, que são consumidos pela luz sagrada e purificadora."
+    }
+  },
+  {
+    "id": 10,
+    "nome": "Lysander, o Equilibrado",
+    "descrição": "Um guerreiro de Libra cujo domínio da estratégia e da diplomacia é tão afiado quanto sua lâmina.",
+    "altura": "1,80m",
+    "peso": "75kg",
+    "personalidade": {
+      "personalidade": "Lysander é frio e calculista, sempre avaliando todas as opções antes de agir, garantindo que cada movimento seja preciso e eficaz.",
+      "descrição": "Ele é mestre na arte da diplomacia e da negociação, capaz de manipular situações em seu benefício e alcançar seus objetivos sem levantar suspeitas."
+    },
+    "signoRepresentante": "Libra",
+    "classe": "Guerreiro",
+    "nivelDePoder": 280,
+    "caracteristica": {
+      "caracteristica": "Equilíbrio Perfeito",
+      "descrição": "Lysander domina a arte da guerra com uma precisão cirúrgica, equilibrando astúcia e força para superar seus oponentes sem jamais perder a compostura."
+    },
+    "ataques": [
+      {
+        "nome": "Lâmina Calculista",
+        "descrição": "Lysander desfere golpes precisos e calculados, aproveitando-se de suas habilidades estratégicas para encontrar os pontos fracos de seus inimigos."
+      },
+      {
+        "nome": "Estratégia Perspicaz",
+        "descrição": "Ele utiliza sua mente afiada para antecipar os movimentos de seus adversários, criando planos complexos que garantem sua vitória no campo de batalha."
+      }
+    ],
+    "ataquePrincipal": {
+      "ataque": "Lâmina Calculista",
+      "descrição": "Lysander avança com sua lâmina afiada, cortando através das defesas de seus inimigos com golpes precisos que demonstram sua habilidade implacável."
+    }
+  },
+  {
+    "id": 11,
+    "nome": "Lyra, a Justa",
+    "descrição": "Uma guerreira de Libra cuja serenidade e compaixão são tão poderosas quanto sua habilidade no campo de batalha.",
+    "altura": "1,70m",
+    "peso": "60kg",
+    "personalidade": {
+      "personalidade": "Lyra é serena e piedosa, irradiando calma e compaixão mesmo nos momentos mais turbulentos da batalha.",
+      "descrição": "Ela é uma defensora dos fracos e oprimidos, sempre buscando a justiça e a harmonia em todas as situações."
+    },
+    "signoRepresentante": "Libra",
+    "classe": "Guerreiro",
+    "nivelDePoder": 270,
+    "caracteristica": {
+      "caracteristica": "Equilíbrio Harmonioso",
+      "descrição": "Lyra equilibra sua força no campo de batalha com compaixão e justiça, buscando sempre resolver conflitos sem derramar mais sangue do que o necessário."
+    },
+    "ataques": [
+      {
+        "nome": "Espada da Justiça",
+        "descrição": "Lyra brande sua espada com graça e determinação, cortando através das injustiças e protegendo aqueles que não podem se defender."
+      },
+      {
+        "nome": "Escudo da Serenidade",
+        "descrição": "Ela ergue seu escudo para proteger seus aliados, envolvendo-os com uma aura de serenidade que os acalma e fortalece em meio ao caos da batalha."
+      }
+    ],
+    "ataquePrincipal": {
+      "ataque": "Espada da Justiça",
+      "descrição": "Lyra avança com sua espada erguida, inspirando seus aliados e cortando através das fileiras inimigas com um golpe certeiro que simboliza sua busca pela justiça."
+    }
+  },
+  {
+    "id": 12,
+    "nome": "Scorpius, o Implacável",
+    "descrição": "Um guerreiro do signo de Escorpião, cuja determinação e ferocidade são comparáveis à de uma máquina de batalha.",
+    "altura": "1,85m",
+    "peso": "90kg",
+    "personalidade": {
+      "personalidade": "Scorpius é implacável e determinado, sempre avançando inexoravelmente em direção à vitória, independentemente dos obstáculos que surgem em seu caminho.",
+      "descrição": "Ele é um combatente feroz, cuja determinação e força interior são tão afiadas quanto suas garras venenosas."
+    },
+    "signoRepresentante": "Escorpião",
+    "classe": "Guerreiro",
+    "nivelDePoder": 300,
+    "caracteristica": {
+      "caracteristica": "Máquina de Batalha",
+      "descrição": "Scorpius é uma máquina de batalha implacável, avançando sobre seus inimigos com uma ferocidade que não conhece limites, deixando nada além de destruição em seu rastro."
+    },
+    "ataques": [
+      {
+        "nome": "Golpe Venenoso",
+        "descrição": "Scorpius ataca seus inimigos com suas garras afiadas, injetando veneno mortal em suas feridas e enfraquecendo-os rapidamente."
+      },
+      {
+        "nome": "Investida Escarlate",
+        "descrição": "Ele avança sobre seus oponentes com uma fúria implacável, desferindo golpes poderosos que destroem tudo em seu caminho."
+      }
+    ],
+    "ataquePrincipal": {
+      "ataque": "Golpe Venenoso",
+      "descrição": "Scorpius ataca com suas garras envenenadas, injetando veneno mortal em seus inimigos e deixando-os enfraquecidos diante de sua ferocidade."
+    }
+  },
+  {
+    "id": 13,
+    "nome": "Safira, a Precisa",
+    "descrição": "Uma guerreira do signo de Sagitário, cuja habilidade de mira e precisão é incomparável no campo de batalha.",
+    "altura": "1,75m",
+    "peso": "65kg",
+    "personalidade": {
+      "personalidade": "Safira é determinada e destemida, sempre avançando em direção à sua meta com confiança e precisão.",
+      "descrição": "Ela é uma arqueira habilidosa e uma estrategista nata, capaz de acertar seus alvos com uma precisão mortal, independentemente das circunstâncias."
+    },
+    "signoRepresentante": "Sagitário",
+    "classe": "Guerreira",
+    "nivelDePoder": 270,
+    "caracteristica": {
+      "caracteristica": "A Mais Precisa",
+      "descrição": "Safira é conhecida por sua habilidade de mira incomparável, capaz de acertar seus alvos com precisão letal, mesmo nas condições mais desafiadoras."
+    },
+    "ataques": [
+      {
+        "nome": "Flecha Certa",
+        "descrição": "Safira dispara uma flecha precisa e mortal em direção ao seu alvo, garantindo que sua precisão seja imbatível e seu golpe letal."
+      },
+      {
+        "nome": "Chuva de Flechas",
+        "descrição": "Ela lança uma chuva de flechas sobre seus inimigos, atingindo múltiplos alvos com uma precisão impressionante que os deixa sem chance de escapar."
+      }
+    ],
+    "ataquePrincipal": {
+      "ataque": "Flecha Certa",
+      "descrição": "Safira prepara sua flecha e a lança com uma precisão mortal, acertando seu alvo com uma força devastadora que deixa seus inimigos sem chance de defesa."
+    }
+  },
+  {
+    "id": 14,
+    "nome": "Aidan, o Visionário",
+    "descrição": "Um guerreiro do signo de Aquário, cuja visão e intuição são suas maiores armas no campo de batalha.",
+    "altura": "1,80m",
+    "peso": "70kg",
+    "personalidade": {
+      "personalidade": "Aidan é visionário e progressista, sempre buscando novas maneiras de abordar os desafios que enfrenta.",
+      "descrição": "Ele é um estrategista astuto, capaz de antecipar os movimentos de seus inimigos e encontrar soluções criativas para os problemas que surgem em seu caminho."
+    },
+    "signoRepresentante": "Aquário",
+    "classe": "Guerreiro",
+    "nivelDePoder": 260,
+    "caracteristica": {
+      "caracteristica": "Visão Intuitiva",
+      "descrição": "Aidan possui uma visão intuitiva que lhe permite antecipar os movimentos de seus inimigos e encontrar pontos fracos em suas defesas, tornando-o um adversário formidável no campo de batalha."
+    },
+    "ataques": [
+      {
+        "nome": "Rajada Elemental",
+        "descrição": "Aidan canaliza a energia elemental ao seu redor, desferindo uma rajada de poder que engloba seus inimigos em uma explosão devastadora."
+      },
+      {
+        "nome": "Lâmina da Inovação",
+        "descrição": "Ele forja uma lâmina imbuida com sua visão intuitiva, capaz de cortar através das defesas mais fortes com uma precisão que desafia a compreensão."
+      }
+    ],
+    "ataquePrincipal": {
+      "ataque": "Rajada Elemental",
+      "descrição": "Aidan invoca uma rajada elemental que engole seus inimigos em chamas, demonstrando sua capacidade de manipular o poder ao seu redor para alcançar a vitória."
+    },
+    "fusao": {
+      "nome": "Aidanus, o Visionário Sonhador",
+      "descrição": "Uma fusão dos guerreiros Aidan, o Visionário, e Piscius, o Sonhador, cuja força reside na harmonia entre visão e intuição, mente e espírito.",
+      "altura": "1,85m",
+      "peso": "75kg",
+      "personalidade": {
+        "personalidade": "Aidanus é uma síntese das personalidades de Aidan e Piscius, combinando a visão estratégica de Aidan com a sensibilidade espiritual de Piscius.",
+        "descrição": "Ele é um guerreiro sábio e intuitivo, capaz de ver além das aparências e compreender os segredos ocultos do universo."
+      },
+      "signoRepresentante": "Aquário e Peixes",
+      "classe": "Místico",
+      "nivelDePoder": 650,
+      "caracteristica": {
+        "caracteristica": "Harmonia Cósmica",
+        "descrição": "Aidanus encarna a harmonia entre mente e espírito, unindo a visão estratégica de Aidan com a sensibilidade espiritual de Piscius para criar um guerreiro místico de poder incomparável."
+      },
+      "ataques": [
+        {
+          "nome": "Olho da Visão Interior",
+          "descrição": "Aidanus abre seu olho da visão interior, revelando os segredos ocultos do universo e desencadeando uma explosão de poder que transcende a compreensão humana."
+        },
+        {
+          "nome": "Fúria dos Espíritos",
+          "descrição": "Ele invoca a fúria dos espíritos para envolver seus inimigos em uma tempestade de destruição espiritual, dilacerando-os com uma ferocidade que desafia a razão."
+        }
+      ],
+      "ataquePrincipal": {
+        "ataque": "Olho da Visão Interior",
+        "descrição": "Aidanus concentra sua visão interior em um único ponto, desencadeando uma explosão de poder que ilumina o campo de batalha e revela os segredos ocultos do universo aos seus aliados."
+      }
+    }
+  },
+  {
+    "id": 15,
+    "nome": "Piscius, o Sonhador",
+    "descrição": "Um guerreiro do signo de Peixes, cuja força reside em sua conexão com os reinos espirituais e sua habilidade de canalizar energias místicas no campo de batalha.",
+    "altura": "1,78m",
+    "peso": "68kg",
+    "personalidade": {
+      "personalidade": "Piscius é sonhador e intuitivo, sempre seguindo seu coração e confiando em sua intuição para guiar seus passos.",
+      "descrição": "Ele é sensível e empático, capaz de sentir as emoções dos outros e usar essa empatia para se conectar mais profundamente com seus aliados e entender os movimentos de seus inimigos."
+    },
+    "signoRepresentante": "Peixes",
+    "classe": "Guerreiro",
+    "nivelDePoder": 280,
+    "caracteristica": {
+      "caracteristica": "Conexão Espiritual",
+      "descrição": "Piscius possui uma conexão profunda com os reinos espirituais, permitindo-lhe canalizar energias místicas e utilizar habilidades que transcendem o mundo físico."
+    },
+    "ataques": [
+      {
+        "nome": "Lança dos Espíritos",
+        "descrição": "Piscius invoca a energia dos espíritos para infundir sua lança com poder celestial, desferindo golpes que atravessam as defesas de seus inimigos com facilidade."
+      },
+      {
+        "nome": "Escudo da Serenidade",
+        "descrição": "Ele cria um escudo de energia espiritual que o protege e protege seus aliados, proporcionando uma sensação de serenidade que os fortalece em meio ao caos da batalha."
+      }
+    ],
+    "ataquePrincipal": {
+      "ataque": "Lança dos Espíritos",
+      "descrição": "Piscius empunha sua lança imbuida com energia espiritual, desferindo golpes que atravessam as linhas inimigas com uma precisão e poder que são verdadeiramente sobrenaturais."
+    }
+  },
+  {
+    "id": 16,
+    "nome": "Piscius, o Berserker Espiritual",
+    "descrição": "Um guerreiro do signo de Peixes, cuja conexão espiritual se transforma em uma fúria incontrolável quando ele entra em sua forma de Berserker.",
+    "altura": "1,80m",
+    "peso": "70kg",
+    "personalidade": {
+      "personalidade": "Piscius é dominado por uma fúria selvagem quando assume sua forma de Berserker, abandonando toda a razão e mergulhando em um estado primal de destruição.",
+      "descrição": "Ele é uma força da natureza, capaz de devastar tudo em seu caminho com uma ferocidade que desafia a compreensão humana."
+    },
+    "signoRepresentante": "Peixes",
+    "classe": "Berserker",
+    "nivelDePoder": 550,
+    "caracteristica": {
+      "caracteristica": "Fúria Espiritual",
+      "descrição": "Piscius canaliza a fúria dos espíritos em sua forma de Berserker, transformando-se em uma tempestade de destruição que arrasa tudo em seu caminho."
+    },
+    "ataques": [
+      {
+        "nome": "Investida Espiritual",
+        "descrição": "Piscius avança sobre seus inimigos com uma fúria incontrolável, desferindo golpes poderosos que destroem tudo em seu caminho."
+      },
+      {
+        "nome": "Vórtice Espiritual",
+        "descrição": "Ele cria um vórtice de energia espiritual ao seu redor, sugando seus inimigos para dentro e dilacerando-os com uma ferocidade avassaladora."
+      }
+    ],
+    "ataquePrincipal": {
+      "ataque": "Investida Espiritual",
+      "descrição": "Piscius lança-se em uma investida selvagem contra seus inimigos, desferindo golpes furiosos que destroem tudo em seu caminho, deixando uma trilha de destruição em seu rastro."
+    }
+  },
+  {
+    "id": 17,
+    "nome": "Aidanus, o Visionário Sonhador",
+    "descrição": "Uma fusão dos guerreiros Aidan, o Visionário, e Piscius, o Sonhador, cuja força reside na harmonia entre visão e intuição, mente e espírito.",
+    "altura": "1,85m",
+    "peso": "75kg",
+    "personalidade": {
+      "personalidade": "Aidanus é uma síntese das personalidades de Aidan e Piscius, combinando a visão estratégica de Aidan com a sensibilidade espiritual de Piscius.",
+      "descrição": "Ele é um guerreiro sábio e intuitivo, capaz de ver além das aparências e compreender os segredos ocultos do universo."
+    },
+    "signoRepresentante": "Aquário e Peixes",
+    "classe": "Místico",
+    "nivelDePoder": 650,
+    "caracteristica": {
+      "caracteristica": "Harmonia Cósmica",
+      "descrição": "Aidanus encarna a harmonia entre mente e espírito, unindo a visão estratégica de Aidan com a sensibilidade espiritual de Piscius para criar um guerreiro místico de poder incomparável."
+    },
+    "ataques": [
+      {
+        "nome": "Olho da Visão Interior",
+        "descrição": "Aidanus abre seu olho da visão interior, revelando os segredos ocultos do universo e desencadeando uma explosão de poder que transcende a compreensão humana."
+      },
+      {
+        "nome": "Fúria dos Espíritos",
+        "descrição": "Ele invoca a fúria dos espíritos para envolver seus inimigos em uma tempestade de destruição espiritual, dilacerando-os com uma ferocidade que desafia a razão."
+      }
+    ],
+    "ataquePrincipal": {
+      "ataque": "Olho da Visão Interior",
+      "descrição": "Aidanus concentra sua visão interior em um único ponto, desencadeando uma explosão de poder que ilumina o campo de batalha e revela os segredos ocultos do universo aos seus aliados."
+    }
+  },
+  {
+    "id": 18,
+    "nome": "Thalos, o Mestre Ancião",
+    "descrição": "O antigo mestre de Cáspio e Ira, uma figura venerada cuja sabedoria e poder são lendários.",
+    "altura": "2,20m",
+    "peso": "100kg",
+    "personalidade": {
+      "personalidade": "Thalos é uma presença imponente, cuja sabedoria e serenidade inspiram respeito e reverência em todos que o conhecem.",
+      "descrição": "Ele é um mestre das artes marciais ancestrais, cujo domínio das técnicas de combate é inigualável."
+    },
+    "signoRepresentante": "Indefinido",
+    "classe": "Mestre",
+    "nivelDePoder": 900,
+    "caracteristica": {
+      "caracteristica": "Sabedoria Ancestral",
+      "descrição": "Thalos possui uma sabedoria milenar, acumulada ao longo de décadas de estudo e prática das artes marciais ancestrais."
+    },
+    "ataques": [
+      {
+        "nome": "Golpe da Serenidade",
+        "descrição": "Ele desfere um golpe preciso e sereno, que neutraliza a agressão de seu oponente sem causar danos."
+      },
+      {
+        "nome": "Defesa Inabalável",
+        "descrição": "Ele adota uma postura defensiva inabalável, que o protege de ataques inimigos enquanto ele avalia a situação e determina o melhor curso de ação."
+      }
+    ],
+    "ataquePrincipal": {
+      "ataque": "Golpe da Serenidade",
+      "descrição": "Thalos desfere um golpe tão preciso e sereno que neutraliza completamente a agressão de seu oponente, deixando-o sem meios de contra-atacar."
+    }
+  },
+  {
+    "id": 19,
+    "nome": "Cáspio, o Imperturbável",
+    "descrição": "O primeiro boss final, um guerreiro do signo de Capricórnio, cuja calma aparente esconde uma força formidável e uma determinação inabalável.",
+    "altura": "1,85m",
+    "peso": "80kg",
+    "personalidade": {
+      "personalidade": "Cáspio é conhecido por sua calma inabalável, que o torna uma presença imponente no campo de batalha.",
+      "descrição": "Ele é um estrategista astuto, capaz de avaliar a situação com frieza e determinar o melhor curso de ação, independentemente das circunstâncias."
+    },
+    "signoRepresentante": "Capricórnio",
+    "classe": "Guerreiro",
+    "nivelDePoder": 300,
+    "caracteristica": {
+      "caracteristica": "Calma Imperturbável",
+      "descrição": "Cáspio mantém sua calma mesmo nas situações mais adversas, utilizando sua determinação e foco para superar qualquer obstáculo que surja em seu caminho."
+    },
+    "ataques": [
+      {
+        "nome": "Escudo de Granito",
+        "descrição": "Cáspio invoca um escudo de granito que o protege de ataques inimigos, refletindo a determinação inabalável que o caracteriza."
+      },
+      {
+        "nome": "Flecha da Serenidade",
+        "descrição": "Ele lança uma flecha imbuida com sua calma interior, que tranquiliza seus inimigos e os deixa vulneráveis aos seus ataques."
+      }
+    ],
+    "ataquePrincipal": {
+      "ataque": "Escudo de Granito",
+      "descrição": "Cáspio ergue seu escudo de granito com determinação, refletindo os ataques de seus inimigos com uma serenidade que os deixa desconcertados."
+    }
+  },
+  {
+    "id": 20,
+    "nome": "Ira, o Furioso",
+    "descrição": "O segundo boss final, irmão de Cáspio, um guerreiro do signo de Capricórnio, cuja ira descontrolada é tão temível quanto a determinação de seu irmão.",
+    "altura": "1,90m",
+    "peso": "85kg",
+    "personalidade": {
+      "personalidade": "Ira é conhecido por sua fúria incontrolável, que o torna um adversário aterrorizante no campo de batalha.",
+      "descrição": "Ele é impulsivo e agressivo, atacando com ferocidade selvagem e sem remorsos."
+    },
+    "signoRepresentante": "Capricórnio",
+    "classe": "Guerreiro",
+    "nivelDePoder": 320,
+    "caracteristica": {
+      "caracteristica": "Ira Descontrolada",
+      "descrição": "Ira é dominado por uma fúria selvagem que o impulsiona a atacar sem piedade, deixando um rastro de destruição por onde passa."
+    },
+    "ataques": [
+      {
+        "nome": "Investida Frenética",
+        "descrição": "Ira avança sobre seus inimigos com uma investida frenética, desferindo golpes poderosos que destroem tudo em seu caminho."
+      },
+      {
+        "nome": "Chamas da Fúria",
+        "descrição": "Ele conjura chamas ardentes que consomem seus inimigos em uma explosão de ira descontrolada."
+      }
+    ],
+    "ataquePrincipal": {
+      "ataque": "Investida Frenética",
+      "descrição": "Ira avança com fúria selvagem, desferindo golpes brutais que destroem tudo em seu caminho, deixando seus inimigos aterrorizados diante de sua ferocidade."
+    }
+  },
+  {
+    "id": 21,
+    "nome": "Cáspio e Ira, a União Imperturbável",
+    "descrição": "A fusão dos irmãos Cáspio e Ira, um guerreiro místico que incorpora tanto a calma imperturbável de Cáspio quanto a fúria incontrolável de Ira.",
+    "altura": "1,95m",
+    "peso": "90kg",
+    "personalidade": {
+      "personalidade": "A União Imperturbável é uma síntese das personalidades de Cáspio e Ira, combinando a calma serena de Cáspio com a fúria incontrolável de Ira.",
+      "descrição": "Ele é um guerreiro equilibrado, capaz de alternar entre a calma serena e a fúria devastadora conforme a situação exige."
+    },
+    "signoRepresentante": "Capricórnio",
+    "classe": "Místico",
+    "nivelDePoder": 650,
+    "caracteristica": {
+      "caracteristica": "União Imperturbável",
+      "descrição": "A União Imperturbável incorpora tanto a calma imperturbável de Cáspio quanto a fúria incontrolável de Ira, criando um guerreiro místico de poder incomparável."
+    },
+    "ataques": [
+      {
+        "nome": "Escudo da Fúria Serena",
+        "descrição": "A União Imperturbável conjura um escudo de energia que combina a serenidade de Cáspio com a fúria de Ira, protegendo-o de ataques inimigos enquanto reflete sua determinação inabalável."
+      },
+      {
+        "nome": "Fúria Controlada",
+        "descrição": "Ele canaliza a fúria de Ira de forma controlada, permitindo-lhe desferir golpes poderosos com uma precisão mortal, sem perder sua calma serena."
+      }
+    ],
+    "ataquePrincipal": {
+      "ataque": "Escudo da Fúria Serena",
+      "descrição": "A União Imperturbável ergue seu escudo de energia, combinando a serenidade de Cáspio com a fúria de Ira para criar uma barreira impenetrável que reflete a determinação inabalável do guerreiro."
+    }
+  },
+  {
+    "id": 22,
+    "nome": "Ira, a Manifestação",
+    "descrição": "A fusão dos irmãos Cáspio e Ira, onde a fúria de Ira prevalece, resultando em um guerreiro lendário que personifica a ira descontrolada.",
+    "altura": "2,00m",
+    "peso": "95kg",
+    "personalidade": {
+      "personalidade": "Ira, a Manifestação, é dominado por uma fúria descontrolada e uma sede de destruição insaciável.",
+      "descrição": "Ele é um ser de pura destruição, cuja presença no campo de batalha é acompanhada por uma sensação de terror e desespero."
+    },
+    "signoRepresentante": "Capricórnio",
+    "classe": "Lendário",
+    "nivelDePoder": 750,
+    "caracteristica": {
+      "caracteristica": "Manifestação da Ira",
+      "descrição": "Ira, a Manifestação, é a personificação da fúria descontrolada de Ira, cujo poder é tão devastador que pode desfazer o próprio tecido da realidade."
+    },
+    "ataques": [
+      {
+        "nome": "Fúria Esmagadora",
+        "descrição": "Ele libera uma onda de fúria esmagadora que destroi tudo em seu caminho, reduzindo seus inimigos a nada."
+      },
+      {
+        "nome": "Rugido da Destruição",
+        "descrição": "Ele emite um rugido ensurdecedor que ecoa através do campo de batalha, anunciando a chegada da destruição iminente."
+      }
+    ],
+    "ataquePrincipal": {
+      "ataque": "Fúria Esmagadora",
+      "descrição": "Ira, a Manifestação, libera toda sua fúria em um único golpe devastador, reduzindo seus inimigos a cinzas e escombros."
+    }
+  },
+  {
+    "id": 23,
+    "nome": "Ira, o Devastador Divino",
+    "descrição": "A evolução final de Ira, onde sua fúria descontrolada atinge o ápice, transformando-o em um ser divino de pura destruição.",
+    "altura": "10m",
+    "peso": "Indefinido",
+    "personalidade": {
+      "personalidade": "Ira, o Devastador Divino, é uma entidade de pura fúria e destruição, cuja presença inspira terror e desespero em todos que a testemunham.",
+      "descrição": "Ele é a personificação da ira descontrolada, uma força da natureza que não conhece limites nem piedade."
+    },
+    "signoRepresentante": "Capricórnio",
+    "classe": "Divino",
+    "nivelDePoder": 1000,
+    "caracteristica": {
+      "caracteristica": "Fúria Divina",
+      "descrição": "Ira, o Devastador Divino, é uma manifestação da fúria divina, uma força que pode desfazer os mundos com um simples gesto."
+    },
+    "ataques": [
+      {
+        "nome": "Colapso Celestial",
+        "descrição": "Ele desencadeia uma explosão de energia divina que rasga os céus e desfaz a realidade ao seu redor, reduzindo tudo à sua volta a cinzas e ruínas."
+      },
+      {
+        "nome": "Fúria Eterna",
+        "descrição": "Ele libera sua fúria divina em uma torrente implacável, devastando tudo em seu caminho e deixando um rastro de destruição que perdura por toda a eternidade."
+      }
+    ],
+    "ataquePrincipal": {
+      "ataque": "Colapso Celestial",
+      "descrição": "Ira, o Devastador Divino, desencadeia todo o seu poder divino em um único golpe, causando um colapso celestial que aniquila tudo em seu caminho."
+    }
+  }
+]
