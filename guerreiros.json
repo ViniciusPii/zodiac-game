@@ -6,7 +6,7 @@
     "altura": "1,85m",
     "peso": "90kg",
     "personalidade": {
-      "personalidade": "Audacioso e impulsivo",
+      "personalidade": "Audacioso e impulsivo.",
       "descrição": ", Draven não teme enfrentar nenhum desafio, ele é conhecido por sua coragem inabalável e sua determinação feroz."
     },
     "signoRepresentante": "Áries",
@@ -33,13 +33,13 @@
   },
   {
     "id": 2,
-    "nome": "Gareth, o Inabalável",
+    "nome": "Gareth",
     "descrição": "Um guerreiro robusto e resiliente, cuja determinação é tão sólida quanto a terra.",
     "altura": "1,90m",
     "peso": "100kg",
     "personalidade": {
-      "personalidade": "Persistente e confiável, Gareth é conhecido por sua lealdade inabalável e sua determinação em enfrentar qualquer desafio.",
-      "descrição": "Ele é calmo e ponderado, mas uma vez provocado, sua fúria é tão imparável quanto um touro furioso."
+      "personalidade": "Persistente e confiável.",
+      "descrição": ", Gareth é conhecido por sua lealdade inabalável e sua determinação em enfrentar qualquer desafio, ele é calmo e ponderado, mas uma vez provocado, sua fúria é tão imparável quanto um touro furioso."
     },
     "signoRepresentante": "Touro",
     "classe": "Guerreiro",
