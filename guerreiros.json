@@ -1,13 +1,13 @@
 [
   {
     "id": 1,
-    "nome": "Draven, o Furioso",
+    "nome": "Draven",
     "descrição": "Um guerreiro intrépido e destemido, sempre pronto para a batalha.",
     "altura": "1,85m",
     "peso": "90kg",
     "personalidade": {
-      "personalidade": "Audacioso e impulsivo, Draven não teme enfrentar nenhum desafio.",
-      "descrição": "Ele é conhecido por sua coragem inabalável e sua determinação feroz."
+      "personalidade": "Audacioso e impulsivo",
+      "descrição": ", Draven não teme enfrentar nenhum desafio, ele é conhecido por sua coragem inabalável e sua determinação feroz."
     },
     "signoRepresentante": "Áries",
     "classe": "Guerreiro",
